@@ -1,0 +1,16 @@
+body {
+    background: url("https://jj2045.github.io/racetrack.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1{
+  font-family:'Oswald';
+  color: black;
+}
+#startmenu{
+
+}
+img{
+  width:150px;
+}
