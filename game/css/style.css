@@ -1,0 +1,59 @@
+body {
+    background: url("https://jj2045.github.io/img/racetrack.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.wall {
+  height: 255px;
+  width: 720px;
+   background: none;
+  margin-top: 13%;
+  margin-left: 14%;
+  border-radius: 20%;
+  clear: both;
+  display: block;
+}
+
+h1{
+  font-family:'Oswald';
+  color: black;
+}
+#startmenu{
+
+}
+#car1 {
+  background: url("https://sekonda69.github.io/artboard2copy.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 60px;
+  height: 30px;
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transition: all 0.1s;
+  transform: rotate(180deg)
+}
+#car2 {
+  background: url("https://sekonda69.github.io/goodcar1%20copy.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 60px;
+  height: 40px;
+  position: absolute;
+  top: 3%;
+  left: 50%;
+  transition: all 0.1s;
+  transform: rotate(180deg)
+}
+#car3{
+  background: url("https://sekonda69.github.io/artboard3copy.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 60px;
+  height: 40px;
+  position: absolute;
+  top: 15%;
+  left: 50%;
+  transform:rotate(180deg)
+}
